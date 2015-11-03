@@ -1,9 +1,14 @@
 body {
 	background-color: black;
 	color: white;
+	font-family: 'Lobster', normal;
 }
 
-
-h1 {
+h1,h2 {
 	color: green;
+	font-family: 'Indie Flower', cursive;
+}
+
+#first-career-item{
+	color:yellow;
 }
