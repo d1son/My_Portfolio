@@ -1,3 +1,5 @@
+/* look up margin and padding to float the image and text next to it*/
+
 body {
 	background-color: black;
 	color: white;
@@ -12,3 +14,12 @@ h1,h2 {
 #first-career-item{
 	color:yellow;
 }
+
+
+a:hover{
+	color: green;
+	text-decoration: line-through;
+}
+
+
+
