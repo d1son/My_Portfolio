@@ -11,15 +11,17 @@ h1,h2 {
 	font-family: 'Indie Flower', cursive;
 }
 
-#first-career-item{
+#first-career-item {
 	color:yellow;
 }
 
 
-a:hover{
+a:hover {
 	color: green;
 	text-decoration: line-through;
 }
-
+#first-accomplishments-item {
+	color:yellow;
+}
 
 
