@@ -1,0 +1,27 @@
+/* look up margin and padding to float the image and text next to it*/
+
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Lobster', normal;
+}
+
+h1,h2 {
+	color: green;
+	font-family: 'Indie Flower', cursive;
+}
+
+#first-career-item {
+	color:yellow;
+}
+
+
+a:hover {
+	color: green;
+	text-decoration: line-through;
+}
+#first-accomplishments-item {
+	color:yellow;
+}
+
+
