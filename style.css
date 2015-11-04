@@ -21,7 +21,11 @@ a:hover {
 	text-decoration: line-through;
 }
 #first-accomplishments-item {
-	color:yellow;
+	color:white;
+}
+
+a {
+	color: #7F7D78;
 }
 
 
