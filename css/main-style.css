@@ -1,0 +1,15 @@
+.panel, .panel-body {
+	margin-bottom: 300px;
+	position: static;
+	
+}
+	
+#profile {
+	max-width: 100%;
+	max-height: 100%;
+	
+}
+
+.container-fluid {
+	margin:0;
+}
